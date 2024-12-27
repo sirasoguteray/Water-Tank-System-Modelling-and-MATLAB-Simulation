@@ -13,5 +13,7 @@ The inflow into the water tanks is given either by a constant value, and one val
 
 ![image](https://github.com/user-attachments/assets/89bd24f2-d5ac-4fe6-b936-37cca5c7808a)
 
-## ** Scope Result For Height Levels of Tanks : **
-![image](https://github.com/user-attachments/assets/6a6bd077-06ad-460c-a10c-794b426eadb1)
+## **Scope Result For Height Levels of Tanks**
+![image](https://github.com/user-attachments/assets/973921ff-d464-4866-a12d-c56778de4cd4)
+## **Scope Result For Flows Between Tanks and Free Drain**
+![image](https://github.com/user-attachments/assets/6d365bed-c30e-4186-a9ee-70f2f118b01c)
